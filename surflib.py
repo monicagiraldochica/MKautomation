@@ -1,5 +1,8 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
+__author__ = "Monica Keith"
+__status__ = "Production"
+
 import os
 import mylib
 

@@ -1,4 +1,8 @@
 #!/usr/bin/env python3
+__author__ = "Monica Keith"
+__status__ = "Production"
+__purpose__ = "Perform TBSS analysis"
+
 import mylib
 import os
 import datetime
